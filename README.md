@@ -124,6 +124,6 @@ backend/.env
 This project is open-source under the MIT License.
 
 🙋‍♂️ Author
-Created by S Shivaprasad
-📧 Email: shivaprasad20005@gmail.com
+Created by Darshanam Pallavi
+📧 Email: darshanampallavi2003@gmail.com
 
